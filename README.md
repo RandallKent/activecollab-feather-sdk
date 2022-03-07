@@ -1,6 +1,6 @@
 # PHP SDK for ActiveCollab 5 and 6 API
 
-This is a simple PHP library that makes communication with [Active Collab API](https://developers.activecollab.com/api-documentation/) easy.
+This is a simple PHP library that makes communication with [Active Collab API](https://developers.activecollab.com/api-documentation/index.html) easy.
 
 ## Installation
 
